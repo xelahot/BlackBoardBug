@@ -2,7 +2,7 @@
 #import "XelaSimpleClass.h"
 
 %ctor {
-    XelaSimpleClass *myObject = [[XelaSimpleClass alloc] initWithString:@"Hello from the SoringBoard!"];
+    XelaSimpleClass *myObject = [[XelaSimpleClass alloc] initWithString:@"Hello from the SpringBoard!"];
         
     NSLog(@"%@", [myObject getMyString]);
 }
