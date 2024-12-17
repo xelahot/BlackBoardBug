@@ -1,0 +1,9 @@
+Package: com.xelahot.blackboardbug
+Name: BlackBoardBug
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: This tweak is targetting the SpringBoard and make it a blackscreen. Must force reboot and disable tweak injection to uninstall.
+Maintainer: xelahot
+Author: xelahot
+Section: Tweaks
+Homepage: https://xelahot.github.io/
